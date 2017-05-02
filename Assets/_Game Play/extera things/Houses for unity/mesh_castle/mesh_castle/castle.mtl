@@ -1,0 +1,11 @@
+# File created by luuv TSX
+# Created on: Tue Jun 08 11:13:22 2010 -1
+
+newmtl castle
+Ns 0
+Ka 0.290000 0.290000 0.290000
+Kd 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+d 0.996078
+map_Kd castle_tex.bmp 
+# End
