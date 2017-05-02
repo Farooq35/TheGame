@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ChrecterScript.cs">
+    <Files>
+      <File FileName="Assets\_Game Play\ScreenShort.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Control-Freak-2\Samples\Demo-Dual-Stick-Shooter\Scripts\DualStickShooterCharaAnimator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Plugins\Control-Freak-2\Samples\Demo-Dual-Stick-Shooter\Scripts\DualStickShooterCharaMotor.cs" Line="1" Column="1" />
+      <File FileName="Assets\GuiController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChrecterScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
